@@ -23,4 +23,40 @@ export default [
     id: 6,
     on: false,
   },
+  {
+    id: 7,
+    on: false,
+  },
+  {
+    id: 8,
+    on: false,
+  },
+  {
+    id: 9,
+    on: false,
+  },
+  {
+    id: 10,
+    on: false,
+  },
+  {
+    id: 11,
+    on: false,
+  },
+  {
+    id: 12,
+    on: false,
+  },
+  {
+    id: 13,
+    on: false,
+  },
+  {
+    id: 14,
+    on: true,
+  },
+  {
+    id: 15,
+    on: false,
+  },
 ];
